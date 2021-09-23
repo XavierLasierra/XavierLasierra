@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Statistics 🧐
-
-![](https://github-readme-stats.vercel.app/api?username=XavierLasierra)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierLasierra&layout=compact)
 
