@@ -20,7 +20,4 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div><hr/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierLasierra&layout=compact)
+</div>
