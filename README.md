@@ -1,4 +1,4 @@
-## 👋 Hi there! I am Xavi
+## 👋 Hi there!
 
 #### Reach me via:
 
